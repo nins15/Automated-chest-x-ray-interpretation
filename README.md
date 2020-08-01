@@ -44,5 +44,5 @@ We used last layers of all the models and concatenated them
 
 ## Model performance
 
-
+![alt text](https://github.com/nins15/Automated-chest-x-ray-interpretation/blob/master/Ensemble_Xcep_Incep_Eff.png "EnsembleAUC")
 
