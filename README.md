@@ -41,3 +41,8 @@ We have used three models XceptionNet, InceptionRenetV2, EfficientNet and joined
 ## Ensembling
 We used last layers of all the models and concatenated them
 ![alt text](https://github.com/nins15/Automated-chest-x-ray-interpretation/blob/master/Ensembleimage.png "Ensemble")
+
+## Model performance
+
+
+
