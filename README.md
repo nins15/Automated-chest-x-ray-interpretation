@@ -15,3 +15,4 @@
 ![alt text](https://github.com/nins15/Automated-chest-x-ray-interpretation/blob/master/original%20images(1).png "Sample of images")
 ![alt text](https://github.com/nins15/Automated-chest-x-ray-interpretation/blob/master/Distribution%20of%20size.png "Size distribution of images")
 ![alt text](https://github.com/nins15/Automated-chest-x-ray-interpretation/blob/master/Distribution%20according%20to%20diseases.png "Distribution according to diseases")
+![alt text](https://github.com/nins15/Automated-chest-x-ray-interpretation/blob/master/Percentageofnullvalues.png "Percentage of null values")
