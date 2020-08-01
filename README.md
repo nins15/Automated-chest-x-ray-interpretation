@@ -13,4 +13,5 @@
 ## EDA 
 * Structure of Dataset directory
 ![alt text](https://github.com/nins15/Automated-chest-x-ray-interpretation/blob/master/structureofdirectory.png "Structure of dataset directory")
-* 
+* Sample of images
+![alt text](https://github.com/nins15/Automated-chest-x-ray-interpretation/blob/master/original%20images(1).png "Sample of images")
