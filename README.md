@@ -36,3 +36,8 @@ We have used three models XceptionNet, InceptionRenetV2, EfficientNet and joined
 ![alt text](https://github.com/nins15/Automated-chest-x-ray-interpretation/blob/master/Xception.png "Xception")
 ![alt text](https://github.com/nins15/Automated-chest-x-ray-interpretation/blob/master/EfficientnetAUCcurve.png "Efficientnet")
 ![alt text](https://github.com/nins15/Automated-chest-x-ray-interpretation/blob/master/Inceptionbestauccurve.png "Inception")
+
+
+## Ensembling
+
+
