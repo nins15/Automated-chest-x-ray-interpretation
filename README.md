@@ -27,3 +27,6 @@ We have used U-ones+LSR this means instad of mapping the uncertain labels to one
 The learning performance of deep neural networks on raw CXRs may be affected by the irrelevant noisy areas such as texts or the existence of irregular borders. Moreover, we observe a high ratio of CXRs that have poor alignment. we need to select only the useful part i.e. the part containing lungs. For that we will use lung finder which is a library for detecting lungs on chest x-ray images for further processing.
 Sample of new images is
 ![alt text](https://github.com/nins15/Automated-chest-x-ray-interpretation/blob/master/lungfinder.png "Lung finder")
+
+## Model Building
+
