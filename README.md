@@ -30,3 +30,5 @@ Sample of new images is
 
 ## Model Building
 
+We have used three models XceptionNet, InceptionRenetV2, EfficientNet and joined the last fully-connected layer which is a 5-dimensional dense layer, followed by sigmoid activations that were applied to each of the outputs to obtain the predicted probabilities of the presence of the 5 pathology classes.to obtain indicvidual probablities of each of the five classes. After training we have tested the data on testing dataset present in valid folder of the dataset.
+
