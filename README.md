@@ -10,4 +10,7 @@
 * **Requrements for using lung finder**: pip install lungs-finder
 * **Requirements for using EfficientNet**: pip install keras_efficientnets
 * **Dataset Download**: wget http://download.cs.stanford.edu/deep/CheXpert-v1.0-small.zip
-## EDA
+## EDA 
+* Structure of Dataset directory
+![alt text](https://github.com/nins15/Automated-chest-x-ray-interpretation/blob/master/structureofdirectory.png "Structure of dataset directory")
+* 
