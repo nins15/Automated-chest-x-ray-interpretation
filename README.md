@@ -11,10 +11,7 @@
 * **Requirements for using EfficientNet**: pip install keras_efficientnets
 * **Dataset Download**: wget http://download.cs.stanford.edu/deep/CheXpert-v1.0-small.zip
 ## EDA 
-* Structure of Dataset directory
 ![alt text](https://github.com/nins15/Automated-chest-x-ray-interpretation/blob/master/structureofdirectory.png "Structure of dataset directory")
-* Sample of images
 ![alt text](https://github.com/nins15/Automated-chest-x-ray-interpretation/blob/master/original%20images(1).png "Sample of images")
-
 ![alt text](https://github.com/nins15/Automated-chest-x-ray-interpretation/blob/master/Distribution%20of%20size.png "Size distribution of images")
-* Size distribution of images
+![alt text](https://github.com/nins15/Automated-chest-x-ray-interpretation/blob/master/Distribution%20according%20to%20diseases.png "Distribution according to diseases")
